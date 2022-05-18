@@ -1,0 +1,20 @@
+{
+  "name": "@soarlin/angular-color-thief",
+  "version": "1.0.1",
+  "peerDependencies": {
+    "@angular/common": "^11.2.14",
+    "@angular/core": "^11.2.14",
+    "quantize": "^1.0.2"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "color-thief",
+    "color",
+    "palette",
+    "image",
+    "thief"
+  ]
+}
